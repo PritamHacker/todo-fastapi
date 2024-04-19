@@ -5,6 +5,8 @@
 	Algorithm for Encoding and Decoding Password - HS256
 
 
+Download Zip file of my Repo then follow these steps
+
 *Steps to Test TodoApp API
 
 step 1 - create database/schema in MySQL (Database Name - "todoapp")
